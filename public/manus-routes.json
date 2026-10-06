@@ -1,0 +1,14 @@
+{
+  "routes": [
+    { "path": "/", "title": "GUARDIAN PBVS" },
+    { "path": "/#overview", "title": "Overview" },
+    { "path": "/#verify", "title": "Verify records" },
+    { "path": "/#orgguard", "title": "OrgGuard" },
+    { "path": "/#pricing", "title": "Pricing" },
+    { "path": "/#corporate-register", "title": "Corporate Account Registration" },
+    { "path": "/#hr-register", "title": "HR Account Registration" },
+    { "path": "/#employee-register", "title": "Employee Account Registration" },
+    { "path": "/#about", "title": "About" },
+    { "path": "/#report", "title": "Report a concern" }
+  ]
+}
